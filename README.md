@@ -1,10 +1,10 @@
-# Access the MODIS web service and perform quality filtering using R
+# Access the MODIS web service and perform quality filtering using Python
 
 *Author: ORNL DAAC*  
 *Date: May 15, 2018*  
 *Contact for ORNL DAAC: uso@daac.ornl.gov*  
 
-### Keywords: MODIS, web service, R, REST
+### Keywords: MODIS, web service, Python, REST
 
 ## Overview
 
