@@ -8,7 +8,7 @@
 
 ## Overview
 
-The tutorial outlined in the [jupyter notebook](modis_restservice_qc_filter_Python.ipynb) will explore using the Python to access MODIS Land Products through the new (May 2018) REST-based web service hosted by the ORNL DAAC. For a full description and usage examples of the web service, please visit the ORNL DAAC's MODIS microsite: https://modis.ornl.gov/data/modis_webservice.html
+The tutorial outlined in the [jupyter notebook](modis_restservice_qc_filter_Python.ipynb) will explore using the Python to access MODIS Land Products through the new (May 2018) REST-based web service hosted by the ORNL DAAC. For a full description and usage examples of the web service, please visit the ORNL DAAC's MODIS site: https://modis.ornl.gov/data/modis_webservice.html
 
 Using the MODIS Web Service users can:
 
